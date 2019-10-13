@@ -15,3 +15,14 @@ Sebastian Ruder does a detailed walk through and covers the variations
 
 # Google's trained Word2Vec model in Python
 http://mccormickml.com/2016/04/12/googles-pretrained-word2vec-model-in-python/
+
+
+
+
+
+# Word2vec original paper
+1. Efficient Estimation of Word Representations in
+Vector Space : https://arxiv.org/pdf/1301.3781.pdf
+2. Distributed Representations of Words and Phrases
+and their Compositionality : https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
+
