@@ -12,3 +12,6 @@ Shows the math underneath in a minimalistic yet in practical way
 # Detailed explanation on Word embeddings (Super Technical)
 http://ruder.io/word-embeddings-1/index.html
 Sebastian Ruder does a detailed walk through and covers the variations
+
+# Google's trained Word2Vec model in Python
+http://mccormickml.com/2016/04/12/googles-pretrained-word2vec-model-in-python/
