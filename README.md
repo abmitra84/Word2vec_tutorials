@@ -20,6 +20,9 @@ http://mccormickml.com/2016/04/12/googles-pretrained-word2vec-model-in-python/
 # Word2vec for Advertisement and Recommender systems
 http://mccormickml.com/2018/06/15/applying-word2vec-to-recommenders-and-advertising/
 
+# word2vec applied in Song/Playlist recommendation system
+https://towardsdatascience.com/using-word2vec-for-music-recommendations-bb9649ac2484
+
 
 # Word2vec original paper
 1. Efficient Estimation of Word Representations in
