@@ -25,6 +25,9 @@ https://towardsdatascience.com/using-word2vec-for-music-recommendations-bb9649ac
 
 # word2vec in searching similarity and ranking
 https://medium.com/airbnb-engineering/listing-embeddings-for-similar-listing-recommendations-and-real-time-personalization-in-search-601172f7603e
+ 
+# word2vec in product recommendation system
+https://arxiv.org/pdf/1606.07154.pdf
 
 # Word2vec original paper
 1. Efficient Estimation of Word Representations in
