@@ -23,6 +23,8 @@ http://mccormickml.com/2018/06/15/applying-word2vec-to-recommenders-and-advertis
 # word2vec applied in Song/Playlist recommendation system
 https://towardsdatascience.com/using-word2vec-for-music-recommendations-bb9649ac2484
 
+# word2vec in searching similarity and ranking
+https://medium.com/airbnb-engineering/listing-embeddings-for-similar-listing-recommendations-and-real-time-personalization-in-search-601172f7603e
 
 # Word2vec original paper
 1. Efficient Estimation of Word Representations in
