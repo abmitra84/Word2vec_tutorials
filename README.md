@@ -26,4 +26,5 @@ http://mccormickml.com/2018/06/15/applying-word2vec-to-recommenders-and-advertis
 Vector Space : https://arxiv.org/pdf/1301.3781.pdf
 2. Distributed Representations of Words and Phrases
 and their Compositionality : https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
+3. Original Nueral Probabilistic Language Model by Bengio: http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
 
